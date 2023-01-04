@@ -1,7 +1,4 @@
-//
-//  Created by Stmf on 19/08/2020.
-//  Copyright © 2020 Stmf. All rights reserved.
-//
+
 
 import UIKit
 import Network
